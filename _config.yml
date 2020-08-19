@@ -1,7 +1,7 @@
 # Site settings
 title: Hoora's Blog
 email: hoora.rezaei@live.com
-description: The Jekyll version of the Identity theme by HTML5 UP.
+description: A highly-motivated recently graduated Computer Science student seeking to applying my skills to advance machine learning and artificial intelligence. Looking forward to gaining further experience working in a team environment and build upon existing experience in software development. Striving to contribute to the success of a leading-edge organization.
 baseurl: "/identity-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
@@ -11,11 +11,11 @@ your-title: Machine Learning Engineer
 
 # Social settings
 500px_url:
-facebook_url: https://facebook.com
-github_url:
-gitlab_url: https://gitlab.com/hrezaeim
-googleplus_url: https://plus.google.com/
-instagram_url: https://instagram.com
+facebook_url: # https://facebook.com
+github_url: https://github.com/hrezaeim
+gitlab_url: 
+googleplus_url: # https://plus.google.com/
+instagram_url: https://instagram.com/hrezaeim
 linkedin_url: https://www.linkedin.com/in/hoorarezaeim/
 pinterest_url:
 slack_url:
